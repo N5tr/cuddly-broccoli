@@ -2,8 +2,9 @@
 ## a sample repository
 
 <br />
-blank line use
+blank line use html tags
 <br />
-
-_MARKDOWN_ **ROCKS**
+<br />
+<br />
+*MARKDOWN **ROCKS**
 
