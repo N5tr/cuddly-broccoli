@@ -6,5 +6,6 @@ blank line use html tags
 <br />
 <br />
 <br />
-*MARKDOWN **ROCKS**
+*MARKDOWN*
+**ROCKS**
 
