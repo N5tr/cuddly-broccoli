@@ -15,3 +15,4 @@ list:
 - one
 - two
 - three
+.
